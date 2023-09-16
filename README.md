@@ -1,18 +1,26 @@
 # Handling_Missing_Data (Pre-Processing)
+
 ![Uploading image.png…]()
 
 This repository contains a Python project focused on handling missing data in the New York City (NYC) dataset. Missing data is a common problem in data analysis and can significantly impact the quality of insights drawn from a dataset. In this project, we explore various techniques to address and manage missing data in the NYC dataset, making it more suitable for analysis.
 The NYC dataset used in this project includes information about various aspects of the city, such as population, demographics, economic indicators, and more.
 
 Contents
+
 1]nyc_missing_data.ipynb: Jupyter Notebook containing the code for handling missing data in the NYC dataset.
+
 2]nyc_dataset.csv: The dataset used for this project, which may contain missing values.
+
 3]nyc.jpg: An image depicting the New York City skyline, used for illustration in this README.
 
 Dependencies
+
 To run the code in this repository, you need the following Python libraries:
+
 *Pandas
+
 *NumPy
+
 *Matplotlib (for data visualization, optional)
 
 Techniques Used
