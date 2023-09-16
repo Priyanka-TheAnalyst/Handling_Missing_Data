@@ -1,4 +1,4 @@
-# Handling_Missing_Data (Pre-Processing)
+# Handling_Missing_Data (Data Pre-Processing)
 
 ![Uploading image.png…]()
 
